@@ -1,1 +1,1 @@
-# anti-deepfake-photo-format
+# anti-deepfake-image-format
